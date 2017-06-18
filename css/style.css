@@ -61,3 +61,7 @@
 	height: 70px;
 	margin: auto 10px;
 }
+
+.thumbnail img{
+	height: 300px;
+}
