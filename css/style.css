@@ -65,3 +65,93 @@
 .thumbnail img{
 	height: 300px;
 }
+
+.profile{
+	text-align: center;
+	border: 1px solid #a6d3d7;
+	border-radius: 10px;
+	box-shadow: 3px 3px 0px #a6d3d7;
+	padding: 10px;
+	margin-top: 20px;
+}
+
+.col-name{
+	text-align: center;
+}
+
+.profile img{
+	width: 200px;
+	margin: 10px;
+}
+
+.status{
+	text-align: left;
+}
+
+.status .label{
+	float: right;
+}
+
+.requests{
+	border: 1px solid #ffccd5;
+	border-radius: 10px;
+	box-shadow: 3px 3px 0px #ffccd5;
+	padding: 10px;
+	margin-top: 20px;
+
+}
+
+.requests img{
+	width: 50px;
+	border-radius: 25px;
+	margin-right: 10px;
+}
+
+.requestInfo{
+	float: right;
+}
+
+.history{
+	border: 1px solid #4ca64c;
+	border-radius: 10px;
+	box-shadow: 3px 3px 0px #4ca64c;
+	padding: 10px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.history img{
+	width: 70px;
+	border-radius: 35px;
+	display: block;
+	margin: 0 auto;
+}
+
+.rank{
+	border: 1px solid #ffae19;
+	border-radius: 10px;
+	box-shadow: 3px 3px 0px #ffae19;
+	padding: 10px;
+	margin-top: 20px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: #fff;
+    background-color: #ffae19;
+}
+
+.coupons{
+	border: 1px solid #ffff4c;
+	border-radius: 10px;
+	box-shadow: 3px 3px 0px #ffff4c;
+	padding: 10px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+.coupons img{
+	width: 70px;
+	border: 1px dashed black;
+	margin: 5px;
+	border-radius: 10px;
+}
