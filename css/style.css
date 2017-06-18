@@ -66,6 +66,10 @@
 	height: 300px;
 }
 
+.caption{
+	text-align: center;
+}
+
 .profile{
 	text-align: center;
 	border: 1px solid #a6d3d7;
